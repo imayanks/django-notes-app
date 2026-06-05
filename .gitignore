@@ -24,3 +24,23 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Database
+mysql-data/
+
+# Docker
+*.log
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
